@@ -100,7 +100,7 @@ currently: Turning real-world signals into cloud-native data
 <td width="45%" valign="top" align="center">
 
 <!-- 📷 Replace with a real image URL (see notes at bottom) -->
-<img src="https://via.placeholder.com/400x260/16222A/36BCF7?text=Line+Follower+2.0" width="100%" alt="Line Follower 2.0"/>
+<img src="[https://via.placeholder.com/400x260/16222A/36BCF7?text=Line+Follower+2.0](https://drive.google.com/file/d/1vQb9n_4Q_nBOW026v1aZ3gDXc2_yNjwP/view?usp=sharing)" width="100%" alt="Line Follower 2.0"/>
 
 <sub>🏷️ <code>ESP32</code> · <code>C++</code> · <code>PID</code> · <code>RFID</code></sub>
 
