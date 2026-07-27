@@ -1,32 +1,157 @@
-<div align="center">
-  <!-- Tech Stack & Hardware Badges -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT">
-  <img src="https://img.shields.io/badge/IoT_%7C_Edge_Computing-brightgreen?style=for-the-badge" alt="IoT & Edge Computing">
-</div>
+<!-- ══════════════════ ANIMATED HEADER ══════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sebin%20Vinu&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=I%20connect%20the%20physical%20world%20to%20the%20cloud%20☁️🔌&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+</p>
 
-# Hi, I connect the physical world to the cloud ☁️🔌
+<!-- ══════════════════ TYPING INTRO ══════════════════ -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=IoT+Developer+%7C+Embedded+Systems+Engineer;Building+connected+hardware+%26+edge-compute+devices;Firmware+in+C%2B%2B+%7C+Python+%7C+Java+%7C+Dart;From+sensors+to+cloud+dashboards" alt="Typing SVG" />
+  </a>
+</p>
 
-I'm an IoT developer and embedded systems engineer from Kerala, India. I specialize in building connected hardware, edge-compute devices, and end-to-end telemetry pipelines. I write firmware and software in C++, Python, Java, and Dart. I spend my time designing sensor networks, routing data protocols, designing project enclosures, and bridging custom ESP32 endpoints to cloud dashboards and mobile apps.
-
-Here is a look at my core hardware builds:
+<!-- ══════════════════ SOCIAL / CONNECT BADGES ══════════════════ -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sebin-vinu-0a12302a8">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://drive.google.com/drive/folders/135h1yQWwLlqIuYtBTJxXYVd-31WPhWu1">
+    <img src="https://img.shields.io/badge/Project_Gallery-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Project Photos"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Sebin-V&style=for-the-badge&color=203A43&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
 
 ---
 
-## 🏎️ Autonomous Edge-Compute Node (Line Follower 2.0)
-An autonomous, high-speed edge device built for competition environments. It is engineered for real-time closed-loop PID tracking and executes complex, state-machine tasks triggered by physical RFID data nodes.
+<!-- ══════════════════ ABOUT ══════════════════ -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
-* **Edge Sensors:** Custom 8-channel TCRT5000 IR sensor array routed through a **CD74HC4067** analog multiplexer. This layout reclaims GPIO pins by requiring only 5 connections (Pins **D12, D13, D14, D27** for address lines and **D32** for the shared analog signal).
-* **Actuation & Feedback:** Dual N20 Micro Gearmotors driven by a **DRV8833** dual H-bridge motor driver, utilizing an **A3144 Hall-effect sensor** for precise positional feedback and deceleration.
-* **Data Parsing:** Uses a **PN532 RFID Module** to parse on-track instruction payloads (e.g., `SEQ:XXXXXXXX`, `TIME:xx`, `BOMB`) to trigger specific subroutines. 
-* **Local Telemetry:** Features an **SSD1306 OLED Display** (Pins **D21, D22**) for live sensor diagnostics, and a **PCF8574 I2C Port Expander** for onboard state configuration.
+```yaml
+name: Sebin Vinu
+role: IoT Developer & Embedded Systems Engineer
+location: Kerala, India 🇮🇳
+focus:
+  - Connected hardware & edge-compute devices
+  - End-to-end telemetry pipelines
+  - Sensor networks & data-routing protocols
+  - Custom project enclosures
+  - Bridging ESP32 endpoints → cloud dashboards & mobile apps
+languages: [C++, Python, Java, Dart]
+currently: Turning real-world signals into cloud-native data
+```
 
 ---
 
-## 💊 CFP (IoT Medication Management System)
-An end-to-end IoT medication adherence platform. I built this smart physical endpoint to help my grandfather manage his medication independently while providing real-time cloud monitoring and alerts for the rest of the family.
+<!-- ══════════════════ TECH STACK ══════════════════ -->
+## 🛠️ &nbsp;Tech Stack & Hardware
 
-* **Actuation & Edge Logic:** Precision micro-servos drive a custom-designed rotating mechanism that isolates and dispenses individual pill slots based on an embedded real-time schedule.
-* **Identity & Access:** Medication slots only unlock and dispense when the user successfully authenticates by scanning their personal RFID tag, preventing accidental double-dosing.
-* **Cloud Telemetry & Alerts:** Operates as a connected node over local Wi-Fi to push payload state changes. It utilizes the **Telegram Bot API** and a custom Dart/Flutter mobile application to deliver real-time push notifications to family members the exact moment a dose is taken, or if a scheduled dose is missed.
+#### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+</p>
+
+#### Hardware & Firmware
+<p align="left">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO"/>
+</p>
+
+#### Protocols, Cloud & Apps
+<p align="left">
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
+  <img src="https://img.shields.io/badge/Wi--Fi-005A9C?style=for-the-badge&logo=wifi&logoColor=white" alt="WiFi"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/IoT_%7C_Edge_Computing-2E8B57?style=for-the-badge&logo=internetofthings&logoColor=white" alt="IoT & Edge"/>
+</p>
+
+---
+
+<!-- ══════════════════ FEATURED BUILDS ══════════════════ -->
+## 🔩 &nbsp;Core Hardware Builds
+
+<!-- ─────────── PROJECT 1 ─────────── -->
+### 🏎️ &nbsp;Autonomous Edge-Compute Node — *Line Follower 2.0*
+
+> An autonomous, high-speed edge device built for competition environments. Engineered for real-time closed-loop **PID tracking** and executes complex, state-machine tasks triggered by physical **RFID data nodes**.
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+**⚙️ System Highlights**
+
+- **Edge Sensors** — Custom 8-channel `TCRT5000` IR array routed through a **CD74HC4067** analog multiplexer, reclaiming GPIO by using only 5 lines (`D12/D13/D14/D27` address + `D32` shared analog).
+- **Actuation & Feedback** — Dual **N20** micro gearmotors on a **DRV8833** H-bridge, with an **A3144** Hall-effect sensor for positional feedback & deceleration.
+- **Data Parsing** — **PN532 RFID** reads on-track instruction payloads &nbsp;`SEQ:XXXXXXXX`&nbsp;`TIME:xx`&nbsp;`BOMB`&nbsp; to fire subroutines.
+- **Local Telemetry** — **SSD1306 OLED** (`D21/D22`) live diagnostics + **PCF8574** I2C port expander for onboard state config.
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<!-- 📷 Replace with a real image URL (see notes at bottom) -->
+<img src="https://via.placeholder.com/400x260/16222A/36BCF7?text=Line+Follower+2.0" width="100%" alt="Line Follower 2.0"/>
+
+<sub>🏷️ <code>ESP32</code> · <code>C++</code> · <code>PID</code> · <code>RFID</code></sub>
+
+</td>
+</tr>
+</table>
+
+<!-- ─────────── PROJECT 2 ─────────── -->
+### 💊 &nbsp;CFP — *IoT Medication Management System*
+
+> An end-to-end medication adherence platform. A smart physical endpoint built to help my grandfather manage his medication independently, with real-time cloud monitoring & alerts for the whole family.
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+**⚙️ System Highlights**
+
+- **Actuation & Edge Logic** — Precision micro-servos drive a custom rotating mechanism that isolates and dispenses individual pill slots on an embedded real-time schedule.
+- **Identity & Access** — Slots unlock only on successful **RFID tag** authentication, preventing accidental double-dosing.
+- **Cloud Telemetry & Alerts** — Connected Wi-Fi node pushing state changes via the **Telegram Bot API** and a custom **Dart/Flutter** app — family gets a push notification the exact moment a dose is taken or missed.
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<!-- 📷 Replace with a real image URL (see notes at bottom) -->
+<img src="https://via.placeholder.com/400x260/16222A/2E8B57?text=CFP+Pill+Dispenser" width="100%" alt="CFP Medication System"/>
+
+<sub>🏷️ <code>ESP32</code> · <code>Flutter</code> · <code>Telegram API</code> · <code>RFID</code></sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ══════════════════ GITHUB STATS ══════════════════ -->
+## 📊 &nbsp;GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sebin-V&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=2E8B57&text_color=c9d1d9&bg_color=0D1117" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sebin-V&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=E7352C&currStreakLabel=36BCF7&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebin-V&layout=compact&hide_border=true&title_color=36BCF7&text_color=c9d1d9&bg_color=0D1117" alt="Top Languages"/>
+</p>
+
+<!-- ══════════════════ SNAKE ══════════════════ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sebin-V/Sebin-V/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+---
+
+<!-- ══════════════════ FOOTER ══════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&text=Let's%20build%20something%20connected&fontSize=18&fontColor=ffffff&fontAlignY=70" width="100%"/>
+</p>
