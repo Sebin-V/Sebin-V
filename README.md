@@ -1,7 +1,6 @@
 <div align="center">
-  <!-- Hardcoded Tech Stack & Hardware Badges -->
+  <!-- Tech Stack & Hardware Badges -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
   <img src="https://img.shields.io/badge/Hardware-IoT_%7C_Robotics-brightgreen?style=for-the-badge" alt="IoT & Robotics">
 </div>
@@ -44,17 +43,3 @@ A smart energy-saving dashboard designed to track room occupancy and cut power w
 A miniaturized rover that completely skips standard ultrasonic sensors in favor of lasers.
 * Runs on four VL53L0X ToF lasers for 360-degree obstacle avoidance.
 * Programmed to handle line following and track hand gestures for touchless directional control.
-
----
-
-## 📷 ESP32-S3 Digital Camera
-A scratch-built, standalone digital camera for taking and reviewing photos.
-* Uses an ESP32-S3 module paired with a 2.4-inch TFT display.
-* Features a live photo preview, image capture, and a custom playback interface.
-
----
-
-## 🕵️‍♂️ Pluedo
-A desktop murder mystery game I wrote in Python using the Tkinter framework.
-* Features a full GUI, a custom suspect interrogation system, and an interactive logic puzzle loop to solve the case.
-*
