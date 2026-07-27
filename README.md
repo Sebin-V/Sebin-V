@@ -147,12 +147,6 @@ currently: Turning real-world signals into cloud-native data
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="55" alt="Raspberry Pi"/>
 </p>
-<!-- ══════════════════ IoT ANIMATION ══════════════════ -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"/>
-</p>
 
 ---
 
