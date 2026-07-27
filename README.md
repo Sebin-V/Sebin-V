@@ -145,7 +145,7 @@ currently: Turning real-world signals into cloud-native data
 ## 📊 &nbsp;GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Sebin-V&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=E7352C&currStreakLabel=36BCF7&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Sebin-V&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=E7352C&currStreakLabel=36BCF7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
