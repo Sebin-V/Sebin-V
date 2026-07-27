@@ -129,13 +129,12 @@ currently: Turning real-world signals into cloud-native data
 ## 📊 &nbsp;GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sebin-V&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&title_color=36BCF7&icon_color=2E8B57&text_color=c9d1d9&bg_color=0D1117" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Sebin-V&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=E7352C&currStreakLabel=36BCF7&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sebin-V&theme=github_dark" alt="Top Languages"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sebin-V&theme=github_dark" alt="Most Used Languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sebin-V&theme=github_dark" alt="Top Languages by Repo"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sebin-V&theme=github_dark" alt="Top Languages by Commit"/>
 </p>
 
 <!-- ══════════════════ MY STACK (Arduino · ESP-IDF) ══════════════════ -->
@@ -148,7 +147,6 @@ currently: Turning real-world signals into cloud-native data
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="55" alt="Raspberry Pi"/>
 </p>
-
 <!-- ══════════════════ IoT ANIMATION ══════════════════ -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60"/>
