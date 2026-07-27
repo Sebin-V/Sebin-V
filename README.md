@@ -109,7 +109,7 @@ currently: Turning real-world signals into cloud-native data
 
 - **Actuation & Edge Logic** — Precision micro-servos drive a custom rotating mechanism that isolates and dispenses individual pill slots on an embedded real-time schedule.
 - **Identity & Access** — Slots unlock only on successful **RFID tag** authentication, preventing accidental double-dosing.
-- **Cloud Telemetry & Alerts** — Connected Wi-Fi node pushing state changes via the **Telegram Bot API** and a custom **Dart/Flutter** app — family gets a push notification the exact moment a dose is taken or missed.
+- **Cloud Telemetry & Alerts** — Connected Wi-Fi node pushing state changes via the **Telegram Bot API** — family gets a push notification the exact moment a dose is taken or missed.
 
 </td>
 <td width="45%" valign="top" align="center">
