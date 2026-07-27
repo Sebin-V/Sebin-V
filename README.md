@@ -56,11 +56,23 @@ currently: Turning real-world signals into cloud-native data
 </p>
 
 #### Protocols, Cloud & Apps
+<!-- ─────────── COMMUNICATION & BUS PROTOCOLS ─────────── -->
 <p align="left">
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
-  <img src="https://img.shields.io/badge/Wi--Fi-005A9C?style=for-the-badge&logo=wifi&logoColor=white" alt="WiFi"/>
-  <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  <img src="https://img.shields.io/badge/IoT_%7C_Edge_Computing-2E8B57?style=for-the-badge&logo=internetofthings&logoColor=white" alt="IoT & Edge"/>
+  <img src="https://img.shields.io/badge/I2C-1E3A8A?style=for-the-badge&logoColor=white" alt="I2C"/>
+  <img src="https://img.shields.io/badge/SPI-1E3A8A?style=for-the-badge&logoColor=white" alt="SPI"/>
+  <img src="https://img.shields.io/badge/UART-1E3A8A?style=for-the-badge&logoColor=white" alt="UART"/>
+  <img src="https://img.shields.io/badge/PWM-6D28D9?style=for-the-badge&logoColor=white" alt="PWM"/>
+  <img src="https://img.shields.io/badge/ADC-6D28D9?style=for-the-badge&logoColor=white" alt="ADC"/>
+  <img src="https://img.shields.io/badge/TCP%2FIP-005A9C?style=for-the-badge&logoColor=white" alt="TCP/IP"/>
+  <img src="https://img.shields.io/badge/LoRa-2E8B57?style=for-the-badge&logoColor=white" alt="LoRa"/>
+  <img src="https://img.shields.io/badge/nRF24-C41E3A?style=for-the-badge&logoColor=white" alt="nRF24"/>
+</p>
+
+#### Fabrication & Prototyping
+<p align="left">
+  <img src="https://img.shields.io/badge/SMD_Soldering-505050?style=for-the-badge&logo=solder&logoColor=white" alt="SMD Soldering"/>
+  <img src="https://img.shields.io/badge/PCB_Prototyping-3D9970?style=for-the-badge&logoColor=white" alt="PCB Prototyping"/>
+  <img src="https://img.shields.io/badge/Custom_Enclosures-8B5A2B?style=for-the-badge&logoColor=white" alt="Enclosures"/>
 </p>
 
 ---
