@@ -6,7 +6,7 @@
 <!-- ══════════════════ TYPING INTRO ══════════════════ -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=IoT+Developer+%7C+Embedded+Systems+Engineer;Building+connected+hardware+%26+edge-compute+devices;Firmware+in+C%2B%2B+%7C+Python+%7C+Java+%7C+Dart;From+sensors+to+cloud+dashboards" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=IoT+Developer+%7C+Embedded+Systems+Engineer;Building+connected+hardware+%26+edge-compute+devices;From+sensors+to+cloud+dashboards" alt="Typing SVG" />
   </a>
 </p>
 
@@ -137,9 +137,11 @@ currently: Turning real-world signals into cloud-native data
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebin-V&layout=compact&hide_border=true&title_color=36BCF7&text_color=c9d1d9&bg_color=0D1117" alt="Top Languages"/>
 </p>
 
-<!-- ══════════════════ SNAKE ══════════════════ -->
+<!-- ══════════════════ IoT ANIMATION ══════════════════ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sebin-V/Sebin-V/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"/>
 </p>
 
 ---
