@@ -36,7 +36,6 @@ focus:
   - Sensor networks & data-routing protocols
   - Custom project enclosures
   - Bridging ESP32 endpoints → cloud dashboards & mobile apps
-languages: [C++, Python, Java, Dart]
 currently: Turning real-world signals into cloud-native data
 ```
 
@@ -46,12 +45,6 @@ currently: Turning real-world signals into cloud-native data
 ## 🛠️ &nbsp;Tech Stack & Hardware
 
 #### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-</p>
 
 #### Hardware & Firmware
 <p align="left">
