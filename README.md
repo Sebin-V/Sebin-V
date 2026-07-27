@@ -101,9 +101,10 @@ currently: Turning real-world signals into cloud-native data
 
 <!-- 📷 Replace with a real image URL (see notes at bottom) -->
 <a href="https://drive.google.com/drive/folders/135h1yQWwLlqIuYtBTJxXYVd-31WPhWu1">
-  <img src="assets/cfp-medication.png" width="100%" alt="CFP Medication System"/>
+  <img src="assets/line-follower.png" width="100%" alt="Line Follower 2.0"/>
 </a>
-<sub>🏷️ <code>ESP32</code> · <code>C++</code> · <code>PID</code> · <code>RFID</code></sub>
+
+<sub>🏷️ <code>ESP32</code> · <code>Telegram API</code> · <code>RFID</code></sub>
 
 </td>
 </tr>
@@ -129,10 +130,10 @@ currently: Turning real-world signals into cloud-native data
 
 <!-- 📷 Replace with a real image URL (see notes at bottom) -->
 <a href="https://drive.google.com/drive/folders/135h1yQWwLlqIuYtBTJxXYVd-31WPhWu1">
-  <img src="assets/line-follower.png" width="100%" alt="Line Follower 2.0"/>
+  <img src="assets/cfp-medication.png" width="100%" alt="CFP Medication System"/>
 </a>
+<sub>🏷️ <code>ESP32</code> · <code>C++</code> · <code>PID</code> · <code>RFID</code></sub>
 
-<sub>🏷️ <code>ESP32</code> · <code>Flutter</code> · <code>Telegram API</code> · <code>RFID</code></sub>
 
 </td>
 </tr>
