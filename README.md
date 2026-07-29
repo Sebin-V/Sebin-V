@@ -55,7 +55,7 @@ currently: Turning real-world signals into cloud-native data
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE"/>
 </p>
 
-#### Protocols, Cloud & Apps
+#### Protocols & Cloud
 <!-- ─────────── COMMUNICATION & BUS PROTOCOLS ─────────── -->
 <p align="left">
   <img src="https://img.shields.io/badge/I2C-1E3A8A?style=for-the-badge&logoColor=white" alt="I2C"/>
@@ -104,7 +104,7 @@ currently: Turning real-world signals into cloud-native data
   <img src="assets/line-follower.png" width="100%" alt="Line Follower 2.0"/>
 </a>
 
-<sub>🏷️ <code>ESP32</code> · <code>Telegram API</code> · <code>RFID</code></sub>
+<sub>🏷️ <code>ESP32</code> · <code>C++</code> · <code>PID</code> · <code>RFID</code></sub>
 
 </td>
 </tr>
@@ -132,7 +132,8 @@ currently: Turning real-world signals into cloud-native data
 <a href="https://drive.google.com/drive/folders/135h1yQWwLlqIuYtBTJxXYVd-31WPhWu1">
   <img src="assets/cfp-medication.png" width="100%" alt="CFP Medication System"/>
 </a>
-<sub>🏷️ <code>ESP32</code> · <code>C++</code> · <code>PID</code> · <code>RFID</code></sub>
+
+<sub>🏷️ <code>ESP32</code> · <code>Telegram API</code> · <code>RFID</code></sub>
 
 
 </td>
