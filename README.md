@@ -35,7 +35,7 @@ focus:
   - End-to-end telemetry pipelines
   - Sensor networks & data-routing protocols
   - Custom project enclosures
-  - Bridging ESP32 endpoints → cloud dashboards & mobile apps
+  - Bridging ESP32 endpoints → cloud dashboards
 currently: Turning real-world signals into cloud-native data
 ```
 
